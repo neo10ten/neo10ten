@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @neo10ten - I go by Michael in the real world.
-- 🌱 I’m currently learning HTML, soon to be moving onto JavaScript. Hoping to develop into a full stack engineer but I've only recently started on my coding journey.
-- 👀 I'm looking for anything that will help me grow, all experiences are welcomed.
-- 💞️ Currently designing my website, ready to launch once I have a few projects to link to it.
-- 📫 How to reach me: Email - michael@neo10ten.com - LinkedIn - https://www.linkedin.com/in/michaelneo/
+- 🌱 I’m currently learning Javascript. My main goal is to develop skills to build apps that I have ideas for within my industry already.
+- 👀 I'm looking for anything that will help me grow, all experiences are welcomed!
+- 💞️ Currently looking for HTML/CSS projects to help me gain real world experience. If you have a basic site that needs building/updating, send me an email!
+- 📫 How to reach me: Email - michael@neo10ten.com - LinkedIn - https://www.linkedin.com/in/michaelneo/ 
+- 🕷 If you want to learn a bit more about me, feel free to check out my site - https://neo10ten.co/
 
 <!---
 neo10ten/neo10ten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
